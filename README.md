@@ -11,6 +11,9 @@ Este repositorio contiene todos los recursos solicitados, organizados de forma c
 - **Maia Gallardo Mangiamarchi**  
 - **Mateo Pagniez**
 
+## Diagrama topológico
+
+https://app.mural.co/t/comitedejuegardos7529/m/comitedejuegardos7529/1748980593137/082629ec52d5f8993025c5065c1cb9b129742cdc?sender=u27ebc192cd94312317175648
 
 ### ℹ️ Nota sobre la exclusión del directorio `/proc`
 
